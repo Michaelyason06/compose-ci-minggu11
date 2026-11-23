@@ -4,7 +4,7 @@
  
 **Nama:** Michael Putra Gunya Yason
 **NIM:** 202557201028
-**Mata kuliah:** Teknologi Open Source
+**Mata kuliah:** Teknologi Open Source (TOS)
  
 ## Deskripsi
 Workflow ini memvalidasi file docker-compose.yml (stack WordPress +
